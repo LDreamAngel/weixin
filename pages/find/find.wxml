@@ -1,0 +1,23 @@
+
+ <view id='container'>
+<text>朋友圈</text>
+ 
+  </view>
+  <view id='container'>
+ <text>扫一扫</text>
+   </view>
+   <view id='container'>
+ <text>摇一摇</text>
+   </view>
+  <view id='container'>
+ <text>搜一搜</text>
+ 
+  </view>
+  <view id='container'>
+ <text>附件的人</text>
+ 
+  </view>
+  <view id='container'>
+ <text>购物</text>
+ <text>游戏</text>
+   </view>

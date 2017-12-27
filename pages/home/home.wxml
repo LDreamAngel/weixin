@@ -1,0 +1,11 @@
+<view>
+<view>
+<view wx:for = "{{tfboys}}" wx:for-item="boy"> 姓名: {{boy.name}} </view>
+</view>
+
+
+
+
+
+
+</view>
